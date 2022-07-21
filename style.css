@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    align-self: center;
+    display: inline-block;
+    letter-spacing: 80px;
+    font-size: 10rem;
+    transition: all 1s;
+    font-weight: bold;
+    margin: auto;
+    margin-left: 130px;
+    margin-top: 20%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body {
+    background-color: black;
+    transition: all 2s;
+}

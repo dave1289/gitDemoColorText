@@ -1,0 +1,5 @@
+1. git checkout -b "branch name"
+2. whether or not we commit to master
+3. git checkout "branch name"
+4. git branch -d "branch name"
+5. merge conflicts happen when merging 2 branches where changes overlap.  i.e. : changed background color in master and new branch, forcing us to choose one or the other.

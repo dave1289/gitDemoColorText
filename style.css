@@ -3,7 +3,7 @@ h1 {
     align-self: center;
     display: inline-block;
     letter-spacing: 80px;
-    font-size: 10rem;
+    font-size: 16rem;
     transition: all 1s;
     font-weight: bold;
     margin: auto;
@@ -12,6 +12,6 @@ h1 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 body {
-    background-color: black;
+    background-color: teal;
     transition: all 2s;
 }
